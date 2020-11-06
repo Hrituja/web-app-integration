@@ -7,7 +7,7 @@ class SawoLogin extends React.Component {
         const config = {
             containerID: 'sawo-container',
             identifierType: 'email',
-            apiKey: '092f09fb-1c84-4368-a975-60a0850bd4ef',
+            apiKey: 'ec8039fa-51d6-40c2-8bb0-c7e0e52bd4d7',
           }
           const sawo = new Sawo(config)
           sawo.showForm()
